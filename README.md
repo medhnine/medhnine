@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ossamatouayri&label=Profile%20views&color=0e75b6&style=flat" alt="ossamatouayri" /> </p>
 
-<p align="left"> <a href="https://x.com/error_solo" target="blank"><img src="https://img.shields.io/twitter/follow/boxee99?logo=twitter&style=for-the-badge" alt="error_solo" /></a> </p>
+<p align="left"> <a href="https://x.com/error_solo" target="blank"><img src="https://drive.google.com/file/d/1kl6zxFQCoDehOoSI25vL85udnSLF03In/view?usp=sharing" alt="error_solo" /></a> </p>
 
 - 🧑‍🎓 I’m an IT Student at **ALX Africa**
 - 🌱 I’m currently learning **C & C++ programming languages**
