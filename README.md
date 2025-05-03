@@ -21,7 +21,7 @@
 <p align="left">
   <a href="https://twitter.com/boxee99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boxee99" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/ossamatouayri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedhnine" height="30" width="40" /></a>
-  <a href="https://instagram.com/error_solo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="error_solo" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/mohamed.hnine4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="error_solo" height="30" width="40" /></a>
 </p>
 
 ---
