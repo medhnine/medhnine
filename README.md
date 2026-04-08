@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hnine</h1>
 <h3 align="center">IT Student at ALX Africa | Passionate about coding | Always learning, always improving.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ossamatouayri&label=Profile%20views&color=0e75b6&style=flat" alt="ossamatouayri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohhnine&label=Profile%20views&color=0e75b6&style=flat" alt="mohhnine" /> </p>
 
 <p align="left"> <a href="https://x.com/error_solo" target="blank"><img src="https://drive.google.com/file/d/1kl6zxFQCoDehOoSI25vL85udnSLF03In/view?usp=sharing" alt="error_solo" /></a> </p>
 
